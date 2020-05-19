@@ -2,8 +2,8 @@ id: op:P000781
 initial_creation_type: input
 source_metadata:
   id:
-  source_src: 
-  source_brc: 
-  source_url: 
+  source_src:     # resource in initial release
+  source_bdr:     # BDRC Resource ID
+  source_url: https://www.lotsawahouse.org/bo/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind    # other source
   title: ༄༅། །བློ་སྦྱོང་ཚིག་བརྒྱད་མ་བཞུགས་སོ། །
   author: 'དགེ་བཤེས་གླང་རི་ཐང་པ་རྡོ་རྗེ་སེངྒེ།'
