@@ -1,0 +1,10 @@
+id: e5287e9478e4465990e4172b7ef1b555
+annotation_type: yigchung
+revision: '00001'
+annotations:
+- id: 14dc9de4b21c4f2f895bbd56aa8251fa
+  span:
+    start: 1018
+    end: 1078
+tofu-maps:
+  𘚫: 14dc9de4b21c4f2f895bbd56aa8251fa

@@ -1,0 +1,45 @@
+iid: e53f7a53b0c7408596f61db1c04655f1
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: 45cde877d4654552bca8172090b411f3
+  span:
+    start: 40
+    end: 160
+- id: f9980d7b675745a0aa1e1b081e393c99
+  span:
+    start: 162
+    end: 278
+- id: e88e05714ad1420db54b489a58a5e83f
+  span:
+    start: 280
+    end: 402
+- id: ef52d1a2a5ed4acfb4854496aa2fe00d
+  span:
+    start: 404
+    end: 532
+- id: 14f7cbedb2dc443c9d45e807c3e872da
+  span:
+    start: 534
+    end: 652
+- id: e26eae8684c1434ea4f3ae91edbb08d5
+  span:
+    start: 654
+    end: 770
+- id: 221e6ed178cd45afa8713208b6491cc0
+  span:
+    start: 772
+    end: 889
+- id: 225eb26fdb3e48b1b5ddde81b870a546
+  span:
+    start: 891
+    end: 1016
+tofu-maps:
+  𘚫: 45cde877d4654552bca8172090b411f3
+  𘚬: f9980d7b675745a0aa1e1b081e393c99
+  𘚭: e88e05714ad1420db54b489a58a5e83f
+  𘚮: ef52d1a2a5ed4acfb4854496aa2fe00d
+  𘚯: 14f7cbedb2dc443c9d45e807c3e872da
+  𘚰: e26eae8684c1434ea4f3ae91edbb08d5
+  𘚱: 221e6ed178cd45afa8713208b6491cc0
+  𘚲: 225eb26fdb3e48b1b5ddde81b870a546
