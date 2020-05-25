@@ -15,9 +15,9 @@ body{
    font-size: 2em;
 }
 </style></iframe>
+_Note: to export custom files, write the format and annotations you need in the commit message. For example `export epub t+c` or `epub toc+correction`. To edit large files use [FireFox ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
 </blockquote></details>
 
-_Note: to export custom files, write the format and annotations you need in the commit message. For example `export epub t+c` or `epub toc+correction`. To edit large files use [FireFox ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
 
 ### Downloads <img src="https://img.icons8.com/cotton/20/000000/download-from-cloud.png">
 - [![](https://img.icons8.com/color/20/000000/txt.png) Plain text (.txt)](https://github.com/OpenPecha/P000781/releases/download/v02/blo_sbyong_tshig_brgyad_ma_bzhugs_so-v001.txt) `v123`
